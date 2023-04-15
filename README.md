@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephgwara" alt="josephgwara" /></a> </p>
 
-- 🌱 I’m currently learning **Java EE and Spring**
+- 🌱 I’m an Android Developer
 
 - 👨‍💻 All of my projects are available at [https://josephgwara.github.io/Portfolio-Site/](https://josephgwara.github.io/Portfolio-Site/)
 
