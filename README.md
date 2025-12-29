@@ -7,8 +7,6 @@
 
 - 🌱 I’m an Android Developer
 
-- 👨‍💻 All of my projects are available at [https://josephgwara.github.io/Portfolio-Site/](https://josephgwara.github.io/Portfolio-Site/)
-
 - 💬 Ask me about **Native Android Development**
 
 - 📫 How to reach me **jgwarix@gmail.com**
