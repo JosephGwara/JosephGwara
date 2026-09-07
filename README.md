@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephgwara" alt="josephgwara" /></a> </p>
 
-- 🌱 I’m an Android Developer
+- 🌱 I’m a Software Engineer
 
-- 💬 Ask me about **Native Android Development**
+- 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me **jgwarix@gmail.com**
 
