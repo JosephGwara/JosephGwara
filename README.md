@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Gwara</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephgwara&label=Profile%20views&color=0e75b6&style=flat" alt="josephgwara" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m a Software Engineer
 
-- 💬 Ask me about **Mobile Development**
+- 💬 Ask me about **Mobile Software Development**
 
 - 📫 How to reach me **jgwarix@gmail.com**
 
