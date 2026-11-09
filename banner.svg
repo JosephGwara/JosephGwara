@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Joseph Gwara, software engineer">
+  <defs>
+    <clipPath id="frame"><rect width="1200" height="320" rx="24"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06221A"/>
+      <stop offset="1" stop-color="#0F4D3A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="960" cy="190" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3DDC84" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#3DDC84" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#FFFFFF" fill-opacity="0.16"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.35" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="dotmask"><rect width="1200" height="320" fill="url(#fade)"/></mask>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#103B2D"/>
+      <stop offset="1" stop-color="#082A20"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#dots)" mask="url(#dotmask)"/>
+    <rect width="1200" height="320" fill="url(#glow)"/>
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+      <text x="72" y="158" font-size="72" font-weight="700" letter-spacing="-1.5" fill="#F3FBF6">Joseph Gwara</text>
+      <text x="75" y="212" font-size="30" fill="#A9D9C2">Software engineer, mobile</text>
+    </g>
+    <rect x="75" y="242" width="60" height="6" rx="3" fill="#3DDC84"/>
+
+    <g transform="rotate(-9 960 200)">
+      <!-- phone 1: list screen -->
+      <g transform="translate(748 96)">
+        <rect width="132" height="290" rx="24" fill="url(#screen)" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="2"/>
+        <rect x="50" y="14" width="32" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.25"/>
+        <circle cx="30" cy="58" r="12" fill="#3DDC84"/>
+        <rect x="52" y="52" width="62" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.22"/>
+        <circle cx="30" cy="98" r="12" fill="#FFC857"/>
+        <rect x="52" y="92" width="48" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.22"/>
+        <circle cx="30" cy="138" r="12" fill="#FFFFFF" fill-opacity="0.22"/>
+        <rect x="52" y="132" width="58" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.22"/>
+        <circle cx="30" cy="178" r="12" fill="#FFFFFF" fill-opacity="0.22"/>
+        <rect x="52" y="172" width="42" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.22"/>
+        <circle cx="30" cy="218" r="12" fill="#FFFFFF" fill-opacity="0.22"/>
+        <rect x="52" y="212" width="54" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.22"/>
+      </g>
+
+      <!-- phone 2: card screen -->
+      <g transform="translate(900 30)">
+        <rect width="132" height="340" rx="24" fill="url(#screen)" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="2"/>
+        <rect x="50" y="14" width="32" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.25"/>
+        <rect x="16" y="38" width="100" height="84" rx="12" fill="#3DDC84"/>
+        <circle cx="92" cy="62" r="10" fill="#06221A" fill-opacity="0.35"/>
+        <rect x="16" y="138" width="74" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.3"/>
+        <rect x="16" y="160" width="100" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.18"/>
+        <rect x="16" y="177" width="86" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.18"/>
+        <rect x="16" y="204" width="46" height="46" rx="12" fill="#FFC857"/>
+        <rect x="70" y="204" width="46" height="46" rx="12" fill="#FFFFFF" fill-opacity="0.18"/>
+        <rect x="16" y="262" width="100" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.18"/>
+      </g>
+
+      <!-- phone 3: form screen -->
+      <g transform="translate(1052 116)">
+        <rect width="132" height="290" rx="24" fill="url(#screen)" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="2"/>
+        <rect x="50" y="14" width="32" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.25"/>
+        <rect x="16" y="42" width="60" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.3"/>
+        <rect x="16" y="66" width="100" height="30" rx="10" fill="none" stroke="#FFFFFF" stroke-opacity="0.3" stroke-width="2"/>
+        <rect x="16" y="108" width="100" height="30" rx="10" fill="none" stroke="#FFFFFF" stroke-opacity="0.3" stroke-width="2"/>
+        <rect x="16" y="152" width="100" height="32" rx="16" fill="#3DDC84"/>
+      </g>
+    </g>
+  </g>
+</svg>
