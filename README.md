@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img src="banner-light.svg" alt="Joseph Gwara, software engineer" width="100%">
-</picture>
+<img src="banner.svg" alt="Joseph Gwara, software engineer" width="100%">
 
 **Software engineer.** I build native Android apps in Kotlin and Java. Mobile is where I spend most of my time; I also work in C# and .NET.
 
@@ -13,15 +10,7 @@
 
 ## Toolbox
 
-| Area | What I use |
-| :-- | :-- |
-| Mobile | Kotlin, Java, Android |
-| Backend | C#, .NET |
-| Data | SQLite, SQL Server, MySQL, Oracle |
-| Cloud | Firebase, Google Cloud |
-| Web | HTML, CSS, JavaScript |
-| Testing and tooling | Git, Postman, Selenium |
-| Design | Illustrator, Photoshop |
+<img src="toolbox.svg" width="100%" alt="Mobile: Kotlin, Java, Android. Backend: C#, .NET. Data: SQLite, SQL Server, MySQL, Oracle. Cloud: Firebase, Google Cloud. Web: HTML, CSS, JavaScript. Testing and tooling: Git, Postman, Selenium. Design: Illustrator, Photoshop.">
 
 ## Get in touch
 
